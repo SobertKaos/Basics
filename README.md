@@ -12,6 +12,7 @@ git pull
 git fetch
 git merge
 (git rebase)
+SKRÄP
 
 # To do
 Add basics of python virtualenv
